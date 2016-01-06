@@ -2,3 +2,4 @@ V2
 Hello, world.
 Correction pour test/issue 
 Correction pour hotfix/test-issue 
+Autre correction pour hotfix/test-issue
